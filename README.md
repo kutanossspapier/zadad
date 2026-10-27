@@ -12,18 +12,6 @@ Co jest:
 
 Dane są w bazie SQL (SQLite przez sql.js) a baza zapisuje się w `localStorage`.
 
-# Pliki
-
-- `index.html` - strona
-- `tsconfig.json` - z repozytorium przedmiotu
-- `src/database.ts` - baza, tabele, zapis do `localStorage`
-- `src/auth.ts` - logowanie, hasła, role
-- `src/warehouse.ts` - produkty, przyjęcie, wydanie, historia, raporty
-- `src/users.ts` - panel admina
-- `src/main.ts` - wygląd i przyciski
-- `public/` - skompilowany JavaScript i `main.css`
-- `wpf/` - wersja na Windows
-
 # Uruchomienie
 
 Otwórz `index.html` w przeglądarce
