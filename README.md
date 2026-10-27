@@ -1,7 +1,7 @@
 # Elektro-Bud - aplikacja magazynowa
 
 Projekt na przedmiot Programowanie aplikacji zaawansowanych webowych. Aplikacja w TypeScript do magazynu hurtowni Elektro-Bud.
-
+ 
 Co jest:
 - logowanie i role: magazynier, kierownik, admin
 - produkty z miejscem w magazynie (sektor, regał, półka)
