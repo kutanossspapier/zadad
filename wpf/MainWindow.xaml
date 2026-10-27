@@ -1,0 +1,8 @@
+﻿<Window x:Class="ElektroBudDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        Title="Elektro-Bud – magazyn" Width="1200" Height="800" MinWidth="700" MinHeight="500"
+        WindowStartupLocation="CenterScreen">
+    <wv2:WebView2 x:Name="Przegladarka"/>
+</Window>

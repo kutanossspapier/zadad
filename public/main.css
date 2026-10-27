@@ -1,0 +1,20 @@
+.login-card {
+    max-width: 420px;
+}
+
+.quantity-input {
+    width: 70px;
+}
+
+.empty-stock {
+    color: red;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.message:empty {
+    display: none;
+}
