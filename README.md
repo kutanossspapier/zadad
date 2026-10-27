@@ -45,4 +45,3 @@ dotnet run
 3. Jako `admin` zresetuj hasło magazyniera - przy logowaniu trzeba będzie ustawić nowe.
 4. Odśwież stronę - dane zostają.
 5. Przycisk „Przywróć bazę przykładową” u admina tworzy bazę od nowa.
-"# zadad" 
